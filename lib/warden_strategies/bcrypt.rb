@@ -24,4 +24,4 @@ module WardenStrategies
   end
 end
 
-Warden::Strategies.add(:simple_bcypt, WardenStrategies::Bcrypt)
+Warden::Strategies.add(:simple_bcrypt, WardenStrategies::Bcrypt)

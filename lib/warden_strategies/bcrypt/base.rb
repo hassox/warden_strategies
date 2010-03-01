@@ -1,5 +1,5 @@
 module WardenStrategies
-  class Bcypt
+  class Bcrypt
     module Mixins
       module Base
         def password=(pass)
